@@ -12,9 +12,9 @@ The start of this project would be something as simple as any linear regression 
 
 Once I have the scores, I can use that predicted situation and the archived Vegas odds right before the start of the game to determine an answer to these questions:
 
-	* What matchups for that week provide the best chances of winning?
-	* What matchups for that week provide the best winning to risk ratio?
-	* What kind of bet should be provide a better chance of winning- Over/Under, Spread or Direct betting?
-	* What combination of these bets would give me a highest chance of winning for the $200 I have?
+	1. What matchups for that week provide the best chances of winning?
+	2. What matchups for that week provide the best winning to risk ratio?
+	3. What kind of bet should be provide a better chance of winning- Over/Under, Spread or Direct betting?
+	4. What combination of these bets would give me a highest chance of winning for the $200 I have?
 
 I would be updating this Read-me as well as the repository as the project progresses.
